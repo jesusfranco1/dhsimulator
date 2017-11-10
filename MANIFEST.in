@@ -1,0 +1,3 @@
+graft dhsimulator/templates
+graft dhsimulator/static
+include dhsimulator/schema.sql

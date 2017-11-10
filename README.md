@@ -1,2 +1,3 @@
 # dhsimulator
-simulates some real life scenarios
+simulator
+
